@@ -1,0 +1,10 @@
+{
+	"env": {
+		"PORT": "2999",
+		"LOG_ACCESS": "dev.log",
+		"DB_CONNECTION_STRING": "mongodb+srv://Instaya:instaya@cluster0.10z14xn.mongodb.net/?retryWrites=true&w=majority",
+		"ACCESS_TOKEN_SECRET": "43bf4e17-0451-4d03-ba61-0e4723e0545f",
+		"REFRESH_TOKEN_SECRET": "<kid_header_value>",
+		"ALLOWED_HOST": "http://localhost:3000"
+	}
+}
